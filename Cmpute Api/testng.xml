@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Cmpute API Suite" verbose="2">
+    <test name="API Tests" verbose="10">
+<classes>
+    <class name="com.cmpute.api_tests.CmputeApiTests"/>
+</classes>
+    </test>
+</suite>
